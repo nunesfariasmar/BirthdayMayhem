@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - StoryCanvas
+  - Text
+  - RightScreen
+  - Text1
+  - Text2
+  - BackgroundLeft
+  - LeftScreen
+  - BackgroundRight
+  - Background
+  - Sprite
+  - Gifts
+  - Transition
+  - DropdownId
+  - DropdownGender
+  - Choice2
+  - Choice0
+  - Choice1
+  - BtnJesse
+  - BtnAlex
+  - MasBorder
+  - FemBorder
+  - Textbc
+  - TextbackgroundLeft
+  - TextbackgroundRight
+  - TBJesse
+  - TBAlex
+  - dots
+  - cog
+  - OptionsMenu
+  - Apply
+  - Cancel
+  - Vibration
+  - Thought Bubbles
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

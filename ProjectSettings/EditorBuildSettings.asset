@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/PhoneInit.unity
+    guid: 377d9ef58cf7fc64b8e8eb405df0f197
+  - enabled: 1
+    path: Assets/Scenes/PhoneInit 1.unity
+    guid: d4c379aab8ab3544192dec482a66239f
+  - enabled: 1
+    path: Assets/Scenes/Scene1.unity
+    guid: cbca8e757a554b34a9e04adfa0e0ff0e
+  - enabled: 1
+    path: Assets/Scenes/PhoneScreen.unity
+    guid: 16405e7f2ea639c4e911a3c0638a47d6
+  - enabled: 1
+    path: Assets/Scenes/SharedScreen.unity
+    guid: 4bc3f374e746e1942a844c203813518e
+  - enabled: 0
+    path: Assets/Scenes/SplitScreen.unity
+    guid: f694bfc408bfffd409042c6469c2964e
+  - enabled: 0
+    path: Assets/Scenes/SplitScreen 2.unity
+    guid: 9de98b685c7a0484a940d2e59c2fb035
+  - enabled: 1
+    path: Assets/Scenes/Birthday1.unity
+    guid: 43ba2a102352fba45a683714740a6a0e
+  - enabled: 1
+    path: Assets/Scenes/Transition.unity
+    guid: 76ecd855a1d9c9844ac599ea4d35def6
+  - enabled: 1
+    path: Assets/Scenes/Birthday2.unity
+    guid: 83d2c5ef2eef69149a9b0099042e24c3
+  - enabled: 1
+    path: Assets/Scenes/Transition2.unity
+    guid: 6358a70f56762d54384e1d393bdde685
+  - enabled: 1
+    path: Assets/Scenes/Birthday3.unity
+    guid: 5db629d0709f690468dbe7843f703ee7
+  - enabled: 1
+    path: Assets/Scenes/Birthday4.unity
+    guid: 5a4c16e6f5e71b44ea3673ecbc9aa0a0
+  m_configObjects: {}
